@@ -1,5 +1,1 @@
-Hello World
-Team: kknock tigers
-member:	Mario
-	Peach
-	Kang
+Hello Word!
