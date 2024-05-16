@@ -1,7 +1,13 @@
 Hello World
+<<<<<<< HEAD
 Team: kknock tigers
 member:	Mario
 	Peach
+=======
+Team: kkock tigers
+member:	Mario
+	Apple
+>>>>>>> member
 	Kong
 Team: kknock pandas
 member:	Bab
